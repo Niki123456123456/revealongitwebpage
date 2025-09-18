@@ -1,9 +1,9 @@
 
-# revealongitwebpage
+# reveal on git webpage
 
 Reveal the current file on your Git hosting webpage (GitHub, GitLab, etc) directly from VS Code.
 
-![Usage Demo](usage.mp4)
+![Usage Demo](usage.gif)
 
 ## Usage
 
