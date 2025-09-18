@@ -1,8 +1,8 @@
 {
   "name": "revealongitwebpage",
-  "publisher": "nn",
+  "publisher": "NiklasNordkamp",
   "displayName": "reveal on git webpage",
-  "description": "Reveals a File in Browser on Git Page",
+  "description": "Reveal the current file on your Git hosting webpage",
   "version": "0.0.1",
   "repository": {
     "type": "git",
