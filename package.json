@@ -4,6 +4,10 @@
   "displayName": "reveal on git webpage",
   "description": "Reveals a File in Browser on Git Page",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Niki123456123456/revealongitwebpage"
+  },
   "engines": {
     "vscode": "^1.102.0"
   },
